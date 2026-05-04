@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'user_info_screen.dart';
+import '../ui/about_screen.dart';
+import '../ui/profile_screen.dart';
 
 /// MainScreen adalah wrapper untuk Bottom Navigation Bar.
 /// Ini adalah "shell" yang menampung 3 tab:
