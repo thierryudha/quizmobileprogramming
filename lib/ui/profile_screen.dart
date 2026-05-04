@@ -41,7 +41,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
     {'color': Colors.indigo, 'icon': Icons.person, 'label': 'Indigo'},
     {'color': Colors.teal, 'icon': Icons.person, 'label': 'Teal'},
     {'color': Colors.deepOrange, 'icon': Icons.person, 'label': 'Orange'},
-    {'color': Colors.purple, 'icon': Colors.person, 'label': 'Purple'},
+    {'color': Colors.purple, 'icon': Icons.person, 'label': 'Purple'},
     {'color': Colors.green, 'icon': Icons.person, 'label': 'Green'},
     {'color': Colors.pink, 'icon': Icons.person, 'label': 'Pink'},
   ];
